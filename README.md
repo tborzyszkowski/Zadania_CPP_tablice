@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|    17.12.2022 23:00 |   10        |
+|    20.01.2024 23:00 |   10        |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -26,4 +26,4 @@ Przedmiot składa się z nazwy, punktów ECTS i listy ocen uzyskanych z tego prz
    - przygotować listę rankingową studentów do przyznania stypendiów (oceny z przedmiotów są ważone punktami ECTS)
 3. Po zakończonej sesji dziekanat przygotowuje statystyki sesji:
    - dla każdego przedmiotu rozkład ocen zarówno podstawowych jak i poprawkowych
-   - dal każdego studenta średnie semestrów i przedmiotów.
+   - dla każdego studenta średnie semestrów i przedmiotów.
